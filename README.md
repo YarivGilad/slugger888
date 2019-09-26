@@ -1,4 +1,4 @@
-[![marker](https://img.shields.io/npm/v/@ajar/marker.svg)](https://www.npmjs.com/package/@ajar/slugger888)
+[![marker](https://img.shields.io/npm/v/@ajar/slugger888.svg)](https://www.npmjs.com/package/@ajar/slugger888)
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 
 # Slugger888 

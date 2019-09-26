@@ -1,10 +1,13 @@
 {
   "name": "@ajar/slugger888",
   "version": "1.1.0",
-  "description": "",
+  "description": "[![marker](https://img.shields.io/npm/v/@ajar/marker.svg)](https://www.npmjs.com/package/@ajar/slugger888) [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon src/consumer.draft.js"
+    "dev": "nodemon src/consumer.draft.js",
+    "test": "jest",
+    "test:watch":"npm test -- --watch",
+    "test:coverage":"npm test -- --coverage"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +16,15 @@
     "@ajar/marker": "^1.2.3"
   },
   "devDependencies": {
+    "jest": "^24.9.0",
     "nodemon": "^1.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YarivGilad/slugger888.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YarivGilad/slugger888/issues"
+  },
+  "homepage": "https://github.com/YarivGilad/slugger888#readme"
 }
